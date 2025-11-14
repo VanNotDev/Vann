@@ -5,5 +5,12 @@
     "role": "owner",
     "expiresAt": 1793192020916,
     "createdAt": 1761656020916
+  },
+  {
+    "username": "Kyroo",
+    "password": "Kyroo",
+    "role": "owner",
+    "expiresAt": 1793192020916,
+    "createdAt": 1793192020916
   }
 ]
