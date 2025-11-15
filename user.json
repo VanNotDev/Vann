@@ -19,12 +19,5 @@
     "role": "reseller",
     "expiresAt": 1793192020916,
     "createdAt": 1761656020916
-},
-{
-    "username": "Uya",
-    "password": "Uya",
-    "role": "owner",
-    "expiresAt": 1793192020916,
-    "createdAt": 1793192020916
-}
+  }
 ]
